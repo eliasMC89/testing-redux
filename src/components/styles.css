@@ -1,0 +1,26 @@
+.button {
+  cursor: pointer;
+}
+
+.button-child {
+  height: 50%;
+  background-color: blue;
+  z-index: 100;
+}
+
+.button-box {
+  height: 400px;
+  background-color: red;
+}
+
+.containerA {
+  background-color: grey;
+  height: 50vh;
+  width: 25;
+}
+
+.containerB {
+  background-color: yellow;
+  height: 50vh;
+  width: 25;
+}
